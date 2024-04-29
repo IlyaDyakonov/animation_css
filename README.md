@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/f2r5ya6te699geou?svg=true)](https://ci.appveyor.com/project/IlyaDyakonov/animation-css)
 
 
 # Домашнее задание к занятию "9. Анимации и CSS"
